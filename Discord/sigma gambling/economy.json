@@ -1,0 +1,82 @@
+{
+    "1142261360789553193": {
+        "gems": 4071.0,
+        "last_work": "2024-09-09T23:06:28.007712+00:00",
+        "autowork_active": true,
+        "last_autowork_stop": "2024-09-09T23:18:04.065274+00:00",
+        "total_wins": 5524.0,
+        "total_losses": 1680.0,
+        "daily_wins": 5524.0,
+        "daily_losses": 1680.0
+    },
+    "1267949095251869838": {
+        "gems": 2349.0,
+        "last_work": "2024-09-09T19:58:23.109972+00:00",
+        "autowork_active": true,
+        "last_autowork_stop": "2024-09-09T23:14:36.032385+00:00",
+        "total_wins": 21258.0,
+        "total_losses": 16194.0,
+        "daily_wins": 21258.0,
+        "daily_losses": 16194.0
+    },
+    "1258186565855875223": {
+        "gems": 3795.0,
+        "last_work": "2024-09-09T23:20:14.069912+00:00",
+        "autowork_active": true,
+        "last_autowork_stop": "2024-09-09T19:10:42.530302+00:00",
+        "total_wins": 2190.0,
+        "total_losses": 1450.0,
+        "daily_wins": 2190.0,
+        "daily_losses": 1450.0
+    },
+    "1120246255042441237": {
+        "gems": 0.0,
+        "last_work": "2024-09-09T20:33:32.063953+00:00",
+        "autowork_active": false,
+        "last_autowork_stop": null,
+        "total_wins": 0,
+        "total_losses": 5.0,
+        "daily_wins": 0,
+        "daily_losses": 5.0
+    },
+    "1153323473263935488": {
+        "gems": 25.0,
+        "last_work": "2025-01-14T00:45:06.718534+00:00",
+        "autowork_active": false,
+        "last_autowork_stop": "2025-01-14T00:43:58.352397+00:00",
+        "total_wins": 30.0,
+        "total_losses": 0,
+        "daily_wins": 30.0,
+        "daily_losses": 0
+    },
+    "1275370908910882869": {
+        "gems": 15.0,
+        "last_work": "2024-09-17T12:53:15.409794+00:00",
+        "autowork_active": false,
+        "last_autowork_stop": null,
+        "total_wins": 0,
+        "total_losses": 0,
+        "daily_wins": 0,
+        "daily_losses": 0
+    },
+    "789839393636089899": {
+        "gems": 19.073486328125,
+        "last_work": "2024-09-19T17:57:17.494496+00:00",
+        "autowork_active": true,
+        "last_autowork_stop": null,
+        "total_wins": 0,
+        "total_losses": 0,
+        "daily_wins": 0,
+        "daily_losses": 0
+    },
+    "1296231305641590785": {
+        "gems": 0,
+        "last_work": null,
+        "autowork_active": true,
+        "last_autowork_stop": null,
+        "total_wins": 0,
+        "total_losses": 0,
+        "daily_wins": 0,
+        "daily_losses": 0
+    }
+}
