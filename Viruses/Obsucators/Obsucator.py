@@ -9,7 +9,6 @@ def obfuscate_code(code):
 
 def obfuscate_file(file_path):
     try:
-
         with open(file_path, 'r', encoding='utf-8') as f:
             code = f.read()
 
@@ -32,7 +31,7 @@ def obfuscate_file(file_path):
 def obfuscate_folder(folder_path):
     for root, _, files in os.walk(folder_path):
         for file in files:
-            if file.endswith('.py'):
+            if file.endswith(('.py', '.pyw')):
                 file_path = os.path.join(root, file)
                 obfuscate_file(file_path)
 
@@ -41,7 +40,7 @@ if __name__ == '__main__':
 
     if os.path.isdir(path):
         obfuscate_folder(path)
-    elif os.path.isfile(path) and path.endswith('.py'):
+    elif os.path.isfile(path) and path.endswith(('.py', '.pyw')):
         obfuscate_file(path)
     else:
-        print("Invalid file or folder path. Please provide a valid Python file or directory.")
+        print("Invalid file or folder path. Please provide a valid Python (.py or .pyw) file or directory.")
